@@ -1,7 +1,7 @@
 # Steven Granda Palencia
-# java 8 en adelante.
-# Visual Studio Code. v.1.95.3
-
+## java 8 en adelante.
+## Visual Studio Code. v.1.95.3
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Gramática y Árboles Sintácticos
 
 Este proyecto en Java tiene como objetivo mostrar los pasos de derivación y los árboles sintácticos generados a partir de una gramática libre de contexto (CFG) y una expresión matemática ingresada por el usuario. La aplicación genera dos tipos de árboles: el árbol de derivación y el árbol de sintaxis abstracta (AST).
